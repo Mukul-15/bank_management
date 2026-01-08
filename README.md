@@ -13,5 +13,5 @@ A simple Bank Management System built using Python and MySQL. It allows users to
 3️⃣ Banking Services – Check balance, deposit, withdraw, send money.
 4️⃣ Transaction History – View all past transactions.
 
-🤝 Contributions
+🤝 Contributions:
 Contributions are welcome! Feel free to fork, improve, and submit a pull request.
