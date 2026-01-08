@@ -1,4 +1,4 @@
-Bank Management System
+Bank Management System:
 A simple Bank Management System built using Python and MySQL. It allows users to securely manage their bank accounts with features like user authentication, transactions, and balance checks.
 
 🚀 Features: 
