@@ -4,7 +4,7 @@ A simple Bank Management System built using Python and MySQL. It allows users to
 🚀 Features: 
 ✔ User Authentication :– Register, Login, Forgot Password.
 ✔ Account Management :– Check Balance, Deposit, Withdraw, Send Money
-✔ Transaction History – View past transactions securely
+✔ Transaction History :– View past transactions securely
 ✔ Database Integration – Uses MySQL for storing user and transaction data 
 
 📌 How It Works:
